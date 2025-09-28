@@ -292,17 +292,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 4. Push to branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
 
-### Code Style
-- Use 2 spaces for indentation
-- Follow semantic HTML practices
-- Use modern JavaScript ES6+ features
-- Comment complex CSS animations
-- Maintain mobile-first responsive design
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Design inspiration from modern cinema websites
@@ -316,9 +305,50 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **GitHub**: [@itsomg134]([https://github.com/yourusername](https://github.com/itsomg134))
 - **LinkedIn**: [Om Gedam]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/om-gedam-39686432a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 - **Portfolio**: [next time i can crete own portpolio website]()
+  ---
+  ##  🤩 working screenshorts
+  
+<img width="1920" height="1080" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/a514f4b0-5a00-49ee-a532-6b9919870315" />
+  ##   Imagine stepping into a world where movies aren't just watched — they're felt. The CineVerse 3D homepage welcomes you with a sleek, starry background that instantly sets a futuristic, immersive vibe. At the top, you’ve got easy navigation: Home, Features, Register, and Contact, so visitors can explore or sign up without getting lost.
+
+<img width="1920" height="1080" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/c5839887-b6a3-4434-8bf6-7d04830dc24d" />
+
+  ##  🙏 CineVerse 3D isn’t just a movie theater — it’s a full-on cinematic escape. This section of the site highlights three standout features that make the experience unforgettable
+
+- 🎭 Premium 3D Technology
+Dive into stories with cutting-edge visuals that make every scene pop off the screen. It’s not just watching — it’s living the movie.
+- 🔊 Immersive Audio
+Feel every whisper, explosion, and heartbeat with Dolby Atmos surround sound. The audio wraps around you, syncing perfectly with the action.
+- 💺 Luxury Seating
+Reclining leather seats, generous legroom, and personal armrests mean you’ll be comfy from trailers to credits. It’s like flying first class… but for movies.
+
+- Accessibility guidelines from W3C standards
+
+<img width="1920" height="1080" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/8671e891-465e-45c2-9ebc-f94b507f288f" />
+
+##  📝 Join CineVerse 3D – Registration Made Simple
+
+- The registration page invites users to become part of the CineVerse 3D experience with a clean, elegant form set against a starry cinematic backdrop. The top navigation bar keeps things intuitive with links to Home, Features, Register, and Contact.
+- 👤 Full Name – Personal identity for membership
+- 📧 Email Address – For updates, confirmations, and exclusive offers
+- 📱 Phone Number – Optional contact for real-time alerts
+- 🎂 Date of Birth – To tailor age-appropriate content and perks
+- 🎟️ Membership Type – A dropdown menu for selecting your preferred plan
 
 ---
 
 ⭐ **Star this repository if you found it helpful!** ⭐
 
 ## thank you 😉
+
+### Code Style
+- Use 2 spaces for indentation
+- Follow semantic HTML practices
+- Use modern JavaScript ES6+ features
+- Comment complex CSS animations
+- Maintain mobile-first responsive design
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
