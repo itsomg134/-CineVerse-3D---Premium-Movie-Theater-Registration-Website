@@ -1,0 +1,38 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.organizeImports": true
+  },
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.wordWrap": "on",
+  "editor.rulers": [80, 120],
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "html.format.indentInnerHtml": true,
+  "html.format.wrapAttributes": "force-aligned",
+  "css.validate": true,
+  "css.lint.duplicateProperties": "warning",
+  "css.lint.unknownProperties": "warning",
+  "javascript.validate.enable": true,
+  "javascript.preferences.quoteStyle": "single",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "liveServer.settings.port": 3000,
+  "liveServer.settings.CustomBrowser": "chrome",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+    "*.html": "*.css, *.js",
+    "package.json": "package-lock.json, yarn.lock"
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#1a1a2e",
+    "activityBar.foreground": "#4ecdc4",
+    "statusBar.background": "#16213e",
+    "statusBar.foreground": "#4ecdc4"
+  }
+}
